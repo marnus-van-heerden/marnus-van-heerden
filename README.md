@@ -18,4 +18,4 @@ o         [Data Visualization for Invasive Species](https://github.com/username/
 
 📄 CV
 
-o        [Download My CV](https://link-to-your-cv.com) This is optional for now - but start your profile
+o        [Download My CV](https://link-to-your-cv.com) 
