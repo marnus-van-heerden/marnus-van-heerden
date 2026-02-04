@@ -10,12 +10,12 @@ o        Programming: Python, Delphi
 
  📂 Projects
 
-o         [Smart Trash Sorting Robot](https://github.com/username/smart-trash-robot) 
+o         [Smart Trash Sorting Robot]() 
 
-o         [Solar Car Dashboard](https://github.com/username/solar-car) 
+o         [Solar Car Dashboard]() 
 
-o         [Data Visualization for Invasive Species](https://github.com/username/data-viz-invasive) 
+o         [Data Visualization for Invasive Species]() 
 
 📄 CV
 
-o        [Download My CV](https://link-to-your-cv.com) 
+o        [Download My CV]() 
